@@ -1,6 +1,6 @@
 # yora
 
-A new Flutter project.
+In this project, I used the Get package to manage state and performed Http requests.
 
 ## Getting Started
 
